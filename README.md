@@ -5,6 +5,8 @@ Time tracker
 
 Good Night 
 Good Morning
+Good Afternoon
+
 
 
 
